@@ -1,0 +1,882 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Luis",
+      "surnames": "García López",
+      "title": "Software Engineer at Personio",
+      "description": "With over 15 years of experience in various industries such as energy, aeronautical, metal, banking, and HR, I am a software professional who specialises in TDD and clean code. I am passionate about helping companies create maintainable products that align with their clients' needs. My focus is not only on implementation but also on the impact of the product, which includes empathising with clients and understanding their requirements to suggest improvements in product functionalities. I am proud of the positive impact I have made so far and always seek new challenges to learn and grow.\n\nMusic is another passion of mine, and I have been using my technical skills to showcase the power of technology in enhancing creativity and artistic expression. As an illustration, I have designed a unique project that applies Data Science to analyse and recommend the next chord to use in a song, making the songwriting process more efficient. This project has allowed me to explore the intersection of music and technology, and I am thrilled about the potential for future innovations in this field.\n\n",
+      "avatar": {
+        "alt": "juanlu.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/0f5df133-ec87-4327-8a16-246ab10c6a91_juanlu.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/huan-lui"
+      },
+      {
+        "type": "other",
+        "URL": "https://medium.com/@huanlui"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanluisgarcialopez/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Personio",
+          "image": {
+            "alt": "personio.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/91570965-6dc6-492d-83fd-d943efe9ee23_personio.png"
+          },
+          "URL": "https://www.personio.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer, Personio. Madrid",
+            "startDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "We offer human resources products designed for small and medium-sized companies across Europe.\n\nAs part of my role, I lead cross-functional technical teams and collaborate with product teams to develop the next-generation payroll system. I actively promote best practices such as test-driven development and pair programming. Our tech stack includes Kotlin, Spring Boot, Kubernetes, AWS (EC2, RDS, S3, SQS, SNS, CDK), Terraform as well as Datadog, React, PostgreSQL, Rundeck, Split.io, Mockk, Strikt, and Figma.\n\nWe also adhere to agile methodologies such as Scrum and TDD to ensure efficient and effective project management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughworks",
+          "image": {
+            "alt": "thoughtworks_flamingo_wave.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/3f734fa1-091f-4f4c-87fd-d2593e2b3e5d_thoughtworks_flaming.png"
+          },
+          "URL": "https://www.thoughtworks.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer Consultant at ThoughtWorks, Fraud detection system for German Retail Company. Madrid",
+            "startDate": "2020-12-01",
+            "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Splitting of monolith system into an event-driven micro-service architecture. \n• Lead responsibilities inside the team.\n• High amount of information to be consumed, stored and queried. \n• Tech Stack: SpringBoot (Kotlin/Java 11), PostgreSQL, Solr, Nakadi, REST, Docker,\nKubernetes, Junit, Mockito, Scalyr.\n• Methodologies: Scrum, TDD, Pair programming, Pull Requests. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Solr",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "alt": "thoughtworks_flamingo_wave.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/ce0c095f-44af-414e-8125-e5ad53a5904a_thoughtworks_flaming.png"
+          },
+          "URL": "https://www.thoughtworks.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer Consultant at ThoughtWorks, Project for Mobile Banking. Madrid",
+            "startDate": "2020-01-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Event-driven micro-services architecture.\n• Working on several micro-services, including payments or financing operations.\n• Integration with 3rd parties (Bizum, Telcos, CECA...).\n• High amount of information to be consumed, stored and queried.\n• Tech Stack: SpringBoot (Java 11), PostgreSQL, Kafka, REST, Docker, Kubernetes,\nIstio, Cucumber, Junit, Mockito, Mountebank, Kibana, Grafana.\n• Methodologies: Kanban, no estimation, TDD, Pair programming, Trunk based\ndevelopment. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Thoughtworks",
+          "image": {
+            "alt": "thoughtworks_flamingo_wave.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/557e4793-da28-4a88-b851-5a862ade8231_thoughtworks_flaming.png"
+          },
+          "URL": "https://www.thoughtworks.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer Consultant at ThoughtWorks, Search engine for air cargo. Madrid",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": " Online marketplace developed for an British airline group to allow several airlines\nto sell and buy cargo capacity.\n• Integration with 3rd parties (several airlines, currency exchange).\n• Full Stack project including ownership of the AWS infrastructure.\n• Tech Stack: React (Typescript), SpringBoot (Kotlin), Neo4j, PostgreSQL, REST,\nTerraform, EC2, RDS, SFTP, Lambda, SQS, Jest, React Testing Library, Cypress, Junit,\nMockito, Bullet Train.\n• Methodologies: Scrum, TDD, Pair programming. Trunk based development"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "NEO4J",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CRC (for Tecoi)",
+          "image": {
+            "alt": "logo_mobile.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/16a7caa0-2899-4e8d-a665-7b5a05dea601_logo_mobile.svg"
+          },
+          "URL": "https://tecoi.com/"
+        },
+        "roles": [
+          {
+            "name": "Team Lead at CRCit (for Tecoi), Metal processing system. Madrid/León/Turku",
+            "startDate": "2016-01-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Definition and development of a challenging brand new metal processing system\nintegrated into several machines and clients.\n• Full Stack development, since low level electronics integration to tactile UI\ndevelopment.\n• Lead of a mixed team, introducing Agile and best practices (TDD, pair\nprogramming).\n• Service architecture using IoT technologies (MQTT).\n• Tech stack: Angular (Typescript), Electron, D3.js, NancyFX (dotnet core), Ninject,\nLiteDB, REST, MQTT, OPC-UA, Karma, Jasmine, Typemock, XUnit, FluentAssertions,\nJenkins.\n• Methodologies: Kanban, no estimation, TDD, Pair programming, Gitflow. "
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "D3",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "MQTT",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CRC (for Tecnatom)",
+          "image": {
+            "alt": "logo-tecnatom-300x99.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/7ef19917-70bc-4360-816d-7d5ed5abe6bf_logo-tecnatom-300x99.jpg"
+          },
+          "URL": "https://www.tecnatom.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer Consultant at CRCit (for Tecnatom), Ultrasonic Data Acquisition Suite. Madrid/Atlanta/Paris",
+            "startDate": "2008-08-01",
+            "finishDate": "2015-12-01",
+            "challenges": [
+              {
+                "description": "Participating in several aspects of the project, from low level electronics API\ndevelopments to 3D representation, ultrasonic calculation software, etc.\n• Integration with 3rd parties, such as KUKA Robots, Microsoft Hololens glasses, Vicon\nArtificial Vision Cameras or client-specific systems. \n• Tech stack: WPF, Windows Forms, C#, C++, SQL Server, NUnit, Moq, Google Test,\nGMock, Fitness, Jenkins, Sonar.\n• Methodologies: Kanban, TDD."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "WPF",
+                "type": "technology"
+              },
+              {
+                "name": "WinForms",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keras",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MQTT",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cucumber",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Data Science Master Degree",
+        "startDate": "2020-03-01",
+        "finishDate": "2021-01-01",
+        "institution": {
+          "name": "KSchool",
+          "description": "As a final thesis, I developed a Deep Learning system that helps in musical composition by\npredicting chord progressions:\n- Data Acquisition: scraping using Selenium and BeautifulSoup.\n- Data cleaning, preparation and analysis: Pandas and music21.\n- Modelling: Keras, LSTM neural network.\n- Visualisation: React application, TensorFlow.js, Tone.js, Vexflow.\n- Testing: Pytest, Jest.\n\nFor more information, visit the article at Medium: https://medium.com/@huanlui/chordsuggester-i-3a1261d4ea9e\nThe result of the project can be visualised here: https://huanlui.github.io/",
+          "URL": "https://kschool.com/",
+          "image": {
+            "alt": "kschool-logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/1f9bade5-ac25-461c-8d03-668e895a4802_kschool-logo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Keras",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Spark",
+            "type": "technology"
+          },
+          {
+            "name": "Tableau",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecommunication Engineer",
+        "startDate": "2002-09-01",
+        "finishDate": "2008-09-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Telecommunication Engineer, Universidad Politécnica, Madrid",
+          "image": {
+            "alt": "LOGOTIPO leyenda color JPG p.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/00d7397f-d214-48ab-9369-c0c53a896858_logotipo-leyenda-col.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Ruby",
+            "type": "technology"
+          },
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/juanluisgarcialopez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Datadog",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "GraphQL",
+          "type": "technology"
+        },
+        {
+          "name": "JUnit",
+          "type": "technology"
+        },
+        {
+          "name": "Jupyter",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Keras",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Lambda",
+          "type": "technology"
+        },
+        {
+          "name": "MQTT",
+          "type": "technology"
+        },
+        {
+          "name": "Mockito",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Pytest",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Serverless",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Tableau",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Engineer",
+        "Data Scientist",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Kafka",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "Spark",
+        "type": "technology"
+      }
+    ]
+  }
+}
