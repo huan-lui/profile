@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,28 +11,20 @@
       "title": "Software Engineer at Personio",
       "description": "With over 15 years of experience in various industries such as energy, aeronautical, metal, banking, and HR, I am a software professional who specialises in TDD and clean code. I am passionate about helping companies create maintainable products that align with their clients' needs. My focus is not only on implementation but also on the impact of the product, which includes empathising with clients and understanding their requirements to suggest improvements in product functionalities. I am proud of the positive impact I have made so far and always seek new challenges to learn and grow.\n\nMusic is another passion of mine, and I have been using my technical skills to showcase the power of technology in enhancing creativity and artistic expression. As an illustration, I have designed a unique project that applies Data Science to analyse and recommend the next chord to use in a song, making the songwriting process more efficient. This project has allowed me to explore the intersection of music and technology, and I am thrilled about the potential for future innovations in this field.\n\n",
       "avatar": {
-        "alt": "juanlu.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/0f5df133-ec87-4327-8a16-246ab10c6a91_juanlu.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/0f5df133-ec87-4327-8a16-246ab10c6a91_juanlu.jpeg",
+        "alt": "juanlu.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/huan-lui"
-      },
-      {
         "type": "other",
         "URL": "https://medium.com/@huanlui"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juanluisgarcialopez/"
       }
     ]
   },
@@ -42,8 +34,8 @@
         "organization": {
           "name": "Personio",
           "image": {
-            "alt": "personio.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/91570965-6dc6-492d-83fd-d943efe9ee23_personio.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/91570965-6dc6-492d-83fd-d943efe9ee23_personio.png",
+            "alt": "personio.png"
           },
           "URL": "https://www.personio.es/"
         },
@@ -93,8 +85,8 @@
         "organization": {
           "name": "Thoughworks",
           "image": {
-            "alt": "thoughtworks_flamingo_wave.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/3f734fa1-091f-4f4c-87fd-d2593e2b3e5d_thoughtworks_flaming.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/3f734fa1-091f-4f4c-87fd-d2593e2b3e5d_thoughtworks_flaming.png",
+            "alt": "thoughtworks_flamingo_wave.png"
           },
           "URL": "https://www.thoughtworks.com/"
         },
@@ -161,8 +153,8 @@
         "organization": {
           "name": "Thoughtworks",
           "image": {
-            "alt": "thoughtworks_flamingo_wave.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/ce0c095f-44af-414e-8125-e5ad53a5904a_thoughtworks_flaming.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/ce0c095f-44af-414e-8125-e5ad53a5904a_thoughtworks_flaming.png",
+            "alt": "thoughtworks_flamingo_wave.png"
           },
           "URL": "https://www.thoughtworks.com/"
         },
@@ -233,8 +225,8 @@
         "organization": {
           "name": "Thoughtworks",
           "image": {
-            "alt": "thoughtworks_flamingo_wave.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/557e4793-da28-4a88-b851-5a862ade8231_thoughtworks_flaming.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/557e4793-da28-4a88-b851-5a862ade8231_thoughtworks_flaming.png",
+            "alt": "thoughtworks_flamingo_wave.png"
           },
           "URL": "https://www.thoughtworks.com/"
         },
@@ -309,8 +301,8 @@
         "organization": {
           "name": "CRC (for Tecoi)",
           "image": {
-            "alt": "logo_mobile.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/16a7caa0-2899-4e8d-a665-7b5a05dea601_logo_mobile.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/16a7caa0-2899-4e8d-a665-7b5a05dea601_logo_mobile.svg",
+            "alt": "logo_mobile.svg"
           },
           "URL": "https://tecoi.com/"
         },
@@ -377,8 +369,8 @@
         "organization": {
           "name": "CRC (for Tecnatom)",
           "image": {
-            "alt": "logo-tecnatom-300x99.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/7ef19917-70bc-4360-816d-7d5ed5abe6bf_logo-tecnatom-300x99.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/7ef19917-70bc-4360-816d-7d5ed5abe6bf_logo-tecnatom-300x99.jpg",
+            "alt": "logo-tecnatom-300x99.jpg"
           },
           "URL": "https://www.tecnatom.es/"
         },
@@ -434,126 +426,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Makefile",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jupyter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pytest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JUnit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Keras",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MQTT",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cucumber",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
           "type": "technology"
         }
       },
@@ -565,19 +449,55 @@
       },
       {
         "skill": {
-          "name": "TensorFlow",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Spring Boot",
+          "name": "C#",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kotlin",
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cucumber",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
           "type": "technology"
         }
       },
@@ -589,13 +509,43 @@
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Pandas",
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keras",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MQTT",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
           "type": "technology"
         }
       },
@@ -607,7 +557,49 @@
       },
       {
         "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -618,16 +610,16 @@
         "degreeAchieved": true,
         "name": "Data Science Master Degree",
         "startDate": "2020-03-01",
-        "finishDate": "2021-01-01",
         "institution": {
           "name": "KSchool",
           "description": "As a final thesis, I developed a Deep Learning system that helps in musical composition by\npredicting chord progressions:\n- Data Acquisition: scraping using Selenium and BeautifulSoup.\n- Data cleaning, preparation and analysis: Pandas and music21.\n- Modelling: Keras, LSTM neural network.\n- Visualisation: React application, TensorFlow.js, Tone.js, Vexflow.\n- Testing: Pytest, Jest.\n\nFor more information, visit the article at Medium: https://medium.com/@huanlui/chordsuggester-i-3a1261d4ea9e\nThe result of the project can be visualised here: https://huanlui.github.io/",
           "URL": "https://kschool.com/",
           "image": {
-            "alt": "kschool-logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/1f9bade5-ac25-461c-8d03-668e895a4802_kschool-logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/1f9bade5-ac25-461c-8d03-668e895a4802_kschool-logo.jpg",
+            "alt": "kschool-logo.jpg"
           }
         },
+        "finishDate": "2021-01-01",
         "linkedCompetences": [
           {
             "name": "Keras",
@@ -664,15 +656,15 @@
         "degreeAchieved": true,
         "name": "Telecommunication Engineer",
         "startDate": "2002-09-01",
-        "finishDate": "2008-09-01",
         "institution": {
           "name": "Universidad Politécnica de Madrid",
           "description": "Telecommunication Engineer, Universidad Politécnica, Madrid",
           "image": {
-            "alt": "LOGOTIPO leyenda color JPG p.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/00d7397f-d214-48ab-9369-c0c53a896858_logotipo-leyenda-col.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/00d7397f-d214-48ab-9369-c0c53a896858_logotipo-leyenda-col.png",
+            "alt": "LOGOTIPO leyenda color JPG p.png"
           }
         },
+        "finishDate": "2008-09-01",
         "linkedCompetences": [
           {
             "name": "C",
@@ -712,14 +704,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/juanluisgarcialopez/"
+          "URL": "https://www.linkedin.com/in/juanluisgarcialopez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/huan-lui",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "jl.garcia.lpez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "687297156",
+          "countryCode": "+34"
         }
       ]
     },
@@ -855,14 +880,14 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Kafka",
+        "name": "AWS",
         "type": "technology"
       },
       {
-        "name": "AWS",
+        "name": "Kafka",
         "type": "technology"
       },
       {
@@ -870,13 +895,15 @@
         "type": "technology"
       },
       {
-        "name": "Spring Boot",
+        "name": "Spark",
         "type": "technology"
       },
       {
-        "name": "Spark",
+        "name": "Spring Boot",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": ". I would like to work for a company that considers **best software practices** as one of the most important things. I enjoy creating well-designed software and collaborating with others who share the same value. For example, TDD is essential for me.\n- I prefer a company that empowers teams with **autonomy** so that they can concentrate on the product instead of bureaucracy.\n- I want to work closely with the product team, understanding the **purpose** of the software and contributing ideas for its improvement.\n- I believe that software development is a **social activity**, so I endorse collaborative work, not just pair programming, but also multi-disciplinary cooperation. I think that co-creation leads to better outcomes.\n- I enjoy **mentoring** and inspiring others to create better software and being a role model within my team. Therefore, I would like to be a technical lead rather than an engineering manager who is detached from the team.\n- Ideally, I would like to work for a company that utilises **Machine Learning** (or AI in general) in their products or processes. \n\nSoftware Engineer, Madrid",
+    "goodPractices": "\nI strongly believe in software that employs an **evolutionary design** approach. There is no single architectural solution that works for every situation. Maintaining a strong design requires constant effort, and that's why I consider **test-driven development** to be essential. It is impossible to create quality software without ongoing **refactoring**, and testing is necessary to support this process.\n\nAdditionally, I believe in true **CI/CD**. This means minimising the time it takes to move our code to production. To achieve this, it's crucial to have **speedy review cycles**, such as through **pair programming,** safe deployment techniques like **feature flags** and shadow testing, and a solid **test pyramid**."
   }
 }
