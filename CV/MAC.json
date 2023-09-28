@@ -100,7 +100,7 @@
             "startDate": "2021-07-01",
             "challenges": [
               {
-                "description": "We offer human resources products designed for small and medium-sized companies across Europe.\n\nAs part of my role, I lead cross-functional technical teams and collaborate with product teams to develop the next-generation payroll system. I actively promote best practices such as test-driven development and pair programming. Our tech stack includes Kotlin, Spring Boot, Kubernetes, AWS (EC2, RDS, S3, SQS, SNS, CDK), Terraform as well as Datadog, React, PostgreSQL, Rundeck, Split.io, Mockk, Strikt, and Figma.\n\nWe also adhere to agile methodologies such as Scrum and TDD to ensure efficient and effective project management."
+                "description": "We offer human resources products designed for small and medium-sized companies across Europe. Being multi-tenant systems managing vast volumes of data, we had to move from the existing distributed but synchronous service architecture towards an event-based one, for better scalability and separations of concerns. \n\nAs part of my role, I lead cross-functional technical teams and collaborate with product teams to develop the next-generation payroll system. I actively promote best practices such as test-driven development and pair programming. Our tech stack includes Kotlin, Spring Boot, Kubernetes, AWS (EC2, RDS, S3, SQS, SNS, CDK), Terraform as well as Datadog, React, PostgreSQL, Rundeck, Split.io, Mockk, Strikt, and Figma.\n\nWe also adhere to agile methodologies such as Scrum and TDD to ensure efficient and effective project management."
               }
             ],
             "competences": [
