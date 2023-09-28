@@ -45,12 +45,16 @@
             "startDate": "2023-09-01",
             "challenges": [
               {
-                "description": "Leading Sinch Contacts team and establishing the Tech Hub in Spain by sharing best-practises, unifying technologies, decoupling teams from the monolith, establishing data migrations, etc. \n\n"
+                "description": "Leading Sinch Contacts team and establishing the Tech Hub in Spain by sharing best-practises, unifying technologies, decoupling teams from the monolith, establishing data migrations, etc. \n\nCurrently, moving from a pure synchronous communication strategy to an even-based architecture. \n\n"
               }
             ],
             "competences": [
               {
                 "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
                 "type": "technology"
               },
               {
