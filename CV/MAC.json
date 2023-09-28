@@ -105,7 +105,15 @@
             ],
             "competences": [
               {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
                 "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
                 "type": "technology"
               },
               {
