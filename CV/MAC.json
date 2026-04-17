@@ -86,6 +86,10 @@
                 "type": "technology"
               },
               {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
                 "name": "Kubernetes",
                 "type": "technology"
               },
