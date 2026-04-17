@@ -66,11 +66,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JUnit",
                 "type": "technology"
               },
               {
-                "name": "JUnit",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -181,11 +181,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JUnit",
                 "type": "technology"
               },
               {
-                "name": "JUnit",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -253,11 +253,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JUnit",
                 "type": "technology"
               },
               {
-                "name": "JUnit",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -564,13 +564,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JUnit",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JUnit",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -748,7 +748,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -809,15 +809,6 @@
         {
           "URL": "https://github.com/huan-lui",
           "type": "github"
-        }
-      ],
-      "contactMails": [
-        "jl.garcia.lpez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "687297156",
-          "countryCode": "+34"
         }
       ]
     },
