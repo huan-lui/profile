@@ -875,10 +875,6 @@
           "type": "technology"
         },
         {
-          "name": "Mockito",
-          "type": "technology"
-        },
-        {
           "name": "MongoDB",
           "type": "technology"
         },
