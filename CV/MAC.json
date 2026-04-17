@@ -723,12 +723,6 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Spark",
           "type": "technology"
         }
@@ -1026,11 +1020,11 @@
         "type": "technology"
       },
       {
-        "name": "Kafka",
+        "name": "Java",
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "Kafka",
         "type": "technology"
       },
       {
@@ -1038,7 +1032,7 @@
         "type": "technology"
       },
       {
-        "name": "Spring Boot",
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
