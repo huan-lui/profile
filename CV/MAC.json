@@ -76,7 +76,7 @@
               {
                 "name": "TypeScript",
                 "type": "technology"
-              }
+              },
               {
                 "name": "Claude Code",
                 "type": "technology"
@@ -112,7 +112,7 @@
               {
                 "name": "Terraform",
                 "type": "technology"
-              },
+              }
             ]
           }
         ]
