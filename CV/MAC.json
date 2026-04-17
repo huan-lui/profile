@@ -62,35 +62,7 @@
                 "type": "technology"
               },
               {
-                "name": "Airbyte",
-                "type": "technology"
-              },
-              {
-                "name": "Apache Iceberg",
-                "type": "technology"
-              },
-              {
-                "name": "Claude Code",
-                "type": "technology"
-              },
-              {
-                "name": "ClickHouse",
-                "type": "technology"
-              },
-              {
                 "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "Jupyter",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
                 "type": "technology"
               },
               {
@@ -102,11 +74,43 @@
                 "type": "technology"
               },
               {
-                "name": "Terraform",
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "Claude Code",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Iceberg",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Spark",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Airbyte",
+                "type": "technology"
+              },
+              {
+                "name": "ClickHouse",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
                 "type": "technology"
               }
             ]
@@ -847,6 +851,26 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
       }
     ]
   },
