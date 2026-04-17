@@ -62,23 +62,7 @@
                 "type": "technology"
               },
               {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Claude Code",
+                "name": "Airbyte",
                 "type": "technology"
               },
               {
@@ -86,19 +70,19 @@
                 "type": "technology"
               },
               {
-                "name": "Apache Spark",
-                "type": "technology"
-              },
-              {
-                "name": "Jupyter",
-                "type": "technology"
-              },
-              {
-                "name": "Airbyte",
+                "name": "Claude Code",
                 "type": "technology"
               },
               {
                 "name": "ClickHouse",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
                 "type": "technology"
               },
               {
@@ -110,7 +94,19 @@
                 "type": "technology"
               },
               {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
                 "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -851,26 +847,6 @@
             "type": "technology"
           }
         ]
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Creative thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Critical view",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mentoring ability",
-          "type": "practice"
-        }
       }
     ]
   },
