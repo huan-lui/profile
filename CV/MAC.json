@@ -40,6 +40,81 @@
     "jobs": [
       {
         "organization": {
+          "name": "Nexthink",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/04/17/b0317614-a8e8-4730-98f9-d5d6671dfa79_black-white_nexthink.png",
+            "alt": "Black-White_Nexthink_logotype.png"
+          },
+          "URL": "https://nexthink.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer 4 & Tech Lead",
+            "startDate": "2024-12-01",
+            "challenges": [
+              {
+                "description": "**Led the Integrations domain at Nexthink**, covering:\n\n- **Large-scale data export and import**, enabling reliable data extraction, transformation, and ingestion  \n- **Interactive communication with third-party systems**, supporting agents and other Nexthink features  \n- **Event notification pipelines** to external platforms  \n\nWorked extensively with platforms such as **Salesforce**, **ServiceNow**, and **Microsoft Entra ID**.\n\nAlso contributed to **AI initiatives**, including:\n- Product-level integrations (e.g., external access to AI agents)  \n- SDLC improvements (e.g., internal agent plugin marketplace, best practices)  \n\nAs the domain scaled, **coordinated multiple teams** and collaborated across international offices to deliver robust platform services."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Airbyte",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Iceberg",
+                "type": "technology"
+              },
+              {
+                "name": "Claude Code",
+                "type": "technology"
+              },
+              {
+                "name": "ClickHouse",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Spark",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Sinch",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/28/6bb2b402-3fe3-42a4-bd7d-6b8b13353e93_sinch_logotype_black.svg",
